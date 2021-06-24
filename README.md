@@ -18,7 +18,10 @@ Through robust augmentations and hyperparameter tuning, I was able to achieve an
 - Upload the Jupyter Notebook to your google drive
 - Note: `/content/drive/MyDrive` is your google drive home directory
 - Open the Jupyter Notebook
-- Change your runtime by `clicking on runtime > change runtime type > change hardware accelerator to GPU`
+- Change your runtime by following these steps
+    1. Click on `runtime`
+    2. Click on `change runtime type`
+    3. Change hardware accelerator to `GPU`
 
 ### Configure the Notebook
 - Open the Jupyter Notebook
