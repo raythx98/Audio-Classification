@@ -51,6 +51,7 @@ test_dataset.zip
         test_0002.wav
         ...
 ```
+> Please name `{word}` properly, since these will appear in the predictions.
 
 ### Final Steps
 
