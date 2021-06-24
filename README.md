@@ -1,5 +1,7 @@
 # Audio-Classification
 
+<img src="banner.png" align="middle" width="3000"/>
+
 Hello! Here is my personal submission for an multi-class audio classification task for Brainhack's [Today-I-Learn](https://www.dsta.gov.sg/brainhack) hackathon.
 
 My implementation makes use of the Long-Short-Term Memory Recurrent Neural Network [(LSTM-RNN)](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43905.pdf), by converting .wav files into [MelSpectrograms](https://medium.com/analytics-vidhya/understanding-the-mel-spectrogram-fca2afa2ce53) to feed into the Recurrent Neural Network.
