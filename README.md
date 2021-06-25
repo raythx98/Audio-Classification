@@ -10,11 +10,9 @@ Through robust augmentations and hyperparameter tuning, I was able to achieve an
 
 # Use my implementation
 ### Cloning the Repository
-- Install [git](https://git-scm.com/downloads)
-- Visit the repository
-- Copy the link `https://github.com/raythx98/Audio-Classification.git` of the repository by clicking on the clone button
-- Open terminal
-- Type `git clone https://github.com/raythx98/Audio-Classification.git`
+- Visit the [repository](https://github.com/raythx98/Audio-Classification)
+- Click on `Audio Classification.ipynb`
+- Click on the download button
 
 ### Upload the Jupyter Notebook
 - Upload the Jupyter Notebook to your google drive
@@ -43,7 +41,15 @@ training_dataset.zip
             bird_0002.wav
             ...
         falcon/
+            falcon_0000.wav
+            falcon_0001.wav
+            falcon_0002.wav
+            ...
         {word}/
+            {word}_0000.wav
+            {word}_0001.wav
+            {word}_0002.wav
+            ...
         ... 
   
 test_dataset.zip  
