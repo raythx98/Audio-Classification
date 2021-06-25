@@ -9,7 +9,8 @@ My implementation makes use of the Long-Short-Term Memory Recurrent Neural Netwo
 Through robust augmentations and hyperparameter tuning, I was able to achieve an average accuracy of 89% on unseen audios.
 
 # Use my implementation
-### Cloning the Repository
+
+### Downloading my Source Code
 - Visit the [repository](https://github.com/raythx98/Audio-Classification)
 - Click on `Audio Classification.ipynb`
 - Click on the download button
